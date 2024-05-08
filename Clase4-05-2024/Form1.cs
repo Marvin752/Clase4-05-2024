@@ -76,7 +76,7 @@ namespace Clase4_05_2024
                     }
                 if (intentar == 3)
                 {
-                    MessageBox.Show("Numero de intentos permitidos superados2");
+                    MessageBox.Show("Numero de intentos permitidos superados");
                     buttonIngresar.Enabled = false;
                 }
             }
